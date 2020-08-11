@@ -1,0 +1,16 @@
+{
+    "name": "OrganizationMod",
+    "alias": "organizationmod",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\OrganizationMod\\Providers\\OrganizationModServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

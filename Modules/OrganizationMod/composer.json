@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/organizationmod",
+    "description": "",
+    "authors": [
+        {
+            "name": "ORGAPP",
+            "email": "ORGAPP@no-reply.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\OrganizationMod\\Providers\\OrganizationModServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\OrganizationMod\\": ""
+        }
+    }
+}

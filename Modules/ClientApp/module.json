@@ -1,0 +1,16 @@
+{
+    "name": "ClientApp",
+    "alias": "clientapp",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\ClientApp\\Providers\\ClientAppServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
